@@ -1,0 +1,28 @@
+name: Twisted Skies
+favicon: null
+layout_spectrum: 0.8565467118751258
+typography_spectrum: 0.5882059012074023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4059399471152574
+  lightness: 0.07188606541603804
+  saturation: 0.18300289963372052
+  rhythmicContrast: 0.48557397932745516
+purpose: []
