@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Chasing, Forecasting, and Providing Ground Truth]]></title>
-        <description><![CDATA[Chasing, Forecasting, and Providing Ground Truth]]></description>
+        <title><![CDATA[Twisted Skies: Chasing, Forecasting, and Providing Ground Truth]]></title>
+        <description><![CDATA[Twisted Skies: Chasing, Forecasting, and Providing Ground Truth]]></description>
         <link>https://thegrid.ai/twisted-skies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 23:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 23:28:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/twisted-skies/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test 2nd Post</p>]]></description>
-            <link>https://thegrid.ai/twisted-skies/3ffefd15-1430-48b3-9375-8b04bb913517/index.html</link>
-            <guid isPermaLink="false">3ffefd15-1430-48b3-9375-8b04bb913517</guid>
-            <pubDate>Mon, 04 Apr 2016 23:25:24 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to our new official website! Please excuse us while we get to know our new AI companion...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa90a9b0-4cf1-438c-98ab-c4d2e1056d7d.jpg"></article>]]></description>
