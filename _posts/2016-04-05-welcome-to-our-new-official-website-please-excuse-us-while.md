@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Welcome to our new official website! Please excuse\_us while we get to know our\_new AI companion..."
-datePublished: '2016-04-05T20:17:02.232Z'
-dateModified: '2016-04-05T20:16:26.946Z'
+description: 'Welcome to the new, official Twisted Skies Chase Team website!'
+datePublished: '2016-04-05T20:25:32.049Z'
+dateModified: '2016-04-05T20:17:08.169Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-welcome-to-our-new-official-website-please-excuse-us-while.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-welcome-to-our-new-official-website-please-excuse-us-while.md
-published: true
 url: welcome-to-our-new-official-website-please-excuse-us-while/index.html
 _type: Article
 
