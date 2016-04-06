@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome to the new, official Twisted Skies Chase Team website!'
-datePublished: '2016-04-05T20:33:10.949Z'
-dateModified: '2016-04-05T20:28:31.534Z'
+datePublished: '2016-04-06T19:40:26.205Z'
+dateModified: '2016-04-06T19:40:23.637Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-welcome-to-our-new-official-website-please-excuse-us-while.md
@@ -35,7 +35,7 @@ _type: Article
 
 Please excuse us while we get to know our new AI companion...
 
-Until then, come check us out on [Facebook][0], [Twitter][1], and [Instagram][2], and [YouTube][3].
+Until then, come check us out on [Facebook][0], [Twitter][1], and [Instagram][2], and [YouTube][3], and our [Blog][4].
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/twzYy3aVFQ4" frameborder="0" allowfullscreen="" style=""></iframe>
 
@@ -45,3 +45,4 @@ Until then, come check us out on [Facebook][0], [Twitter][1], and [Instagram][2]
 [1]: https://twitter.com/TwistedSkiesWx
 [2]: https://www.instagram.com/twisted_skies_wx/
 [3]: https://www.youtube.com/channel/UCVLyoEBqfTemShe0jzl32gQ
+[4]: http://twistedskieswxblog.blogspot.com/
