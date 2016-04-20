@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Welcome to the new, official Twisted Skies Chase Team website!'
-datePublished: '2016-04-07T05:04:28.334Z'
-dateModified: '2016-04-07T05:04:15.091Z'
+datePublished: '2016-04-20T21:06:32.576Z'
+dateModified: '2016-04-20T21:05:50.268Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-welcome-to-our-new-official-website-please-excuse-us-while.md
@@ -22,7 +22,6 @@ url: welcome-to-our-new-official-website-please-excuse-us-while/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/169223ca-bd25-4872-a9d4-d8540611be36.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f90809c-6a06-43b8-a286-a00861d74a90.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d0feec-6125-43d1-a1d2-3f5262167907.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9826dd60-8cdf-4615-8f09-964826aeabb1.jpg)
@@ -39,7 +38,7 @@ Until then, come check us out on [Facebook][0], [Twitter][1], and [Instagram][2]
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/twzYy3aVFQ4" frameborder="0" allowfullscreen="" style=""></iframe>
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2b659b2-516b-44b5-99b0-cbcd1dd9b910.jpg)
 
 [0]: https://www.facebook.com/TwistedSkiesChaseTeam/?fref=ts
 [1]: https://twitter.com/TwistedSkiesWx
