@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Welcome to the new, official Twisted Skies Chase Team website!'
-datePublished: '2016-05-06T18:59:56.035Z'
-dateModified: '2016-05-06T18:51:46.995Z'
+datePublished: '2016-05-11T16:20:52.490Z'
+dateModified: '2016-05-11T16:20:50.267Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-welcome-to-our-new-official-website-please-excuse-us-while.md
@@ -27,7 +27,7 @@ _type: Article
 
 Please excuse us while we get to know our new AI companion...
 
-Until then, come check us out on [Facebook][0], [Twitter][1], and [Instagram][2], and [YouTube][3], and our [Blog][4].
+Until then, come check us out on [Facebook][0], [Twitter][1], [Instagram][2], [YouTube][3], [SoundCloud][4], and our [Blog][5].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f90809c-6a06-43b8-a286-a00861d74a90.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d0feec-6125-43d1-a1d2-3f5262167907.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9826dd60-8cdf-4615-8f09-964826aeabb1.jpg)
@@ -47,4 +47,5 @@ Until then, come check us out on [Facebook][0], [Twitter][1], and [Instagram][2]
 [1]: https://twitter.com/TwistedSkiesWx
 [2]: https://www.instagram.com/twisted_skies_wx/
 [3]: https://www.youtube.com/channel/UCVLyoEBqfTemShe0jzl32gQ
-[4]: http://twistedskieswxblog.blogspot.com/
+[4]: https://soundcloud.com/twistedskieswx
+[5]: http://twistedskieswxblog.blogspot.com/
