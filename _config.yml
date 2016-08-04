@@ -1,20 +1,4 @@
-name: Twisted Skies
-favicon: null
-layout_spectrum: 0.24244
 typography_spectrum: 0.33899
-title: 'Twisted Skies: Chasing, Forecasting, and Providing Ground Truth'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#C0C0C8'
@@ -26,4 +10,21 @@ color:
   lightness: 0
   saturation: 0.183002
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24244
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Twisted Skies
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Twisted Skies: Chasing, Forecasting, and Providing Ground Truth'
+description: 'Chasing, Forecasting, and Providing Ground Truth'
 purpose: []
